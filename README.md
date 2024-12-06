@@ -1,0 +1,2 @@
+# SENTIMENT-ANALYSIS-OF-DYSTHYMIA-FORM-OF-DEPRESSION-USING-MULTIMODEL-APPROACH-
+HTML,CSS.JAVA SCRIPT.JAVA,MYSQL  Made a Basic Application of SENTIMENT ANALYSIS OF DYSTHYMIA FORM OF DEPRESSION USING MULTIMODEL APPROACH using Java for Backend and HTML, CSS, JS for frontend. This app is used to solve the problem every human being in day to day life is being diagnosed with depression due to affection of different parameters
